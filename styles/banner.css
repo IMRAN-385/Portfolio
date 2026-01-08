@@ -1,0 +1,31 @@
+#banner{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 38px ;
+  align-items: center;
+  border: 1px solid red;
+  margin-left: 230px;
+}
+.up{
+  max-width: 585px;
+}
+.up h2{
+  font-size:45px ;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.up h1{
+  font-size: 85px;
+  font-weight: bold;
+    margin-bottom: 20px;
+}
+.up p{
+  font-size: 18px;
+  height:30px ;
+}
+.one{
+  background-color: #FD6E0A;
+
+}
+
+

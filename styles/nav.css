@@ -1,13 +1,12 @@
 .logo h2{
 font-size: 45px;
-
 }
-.color{
-  color: rgb(174, 97, 29);
+header{
+  background-color: #FFF8F3;
+  background-image: url(../images/developer.png),url(../images/header_bg.png);
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
 }
-
-
-
 
 nav {
 justify-content:space-between;
@@ -40,6 +39,7 @@ nav .menu a {
   font-weight:bold ;
   font-size: 20px;
   border: none;
+  cursor:pointer;
 }
 header{
 background-color: #FFF8F3;
