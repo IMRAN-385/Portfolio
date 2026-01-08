@@ -27,5 +27,51 @@
   background-color: #FD6E0A;
 
 }
+.about{
+  /* padding: 130px 230px 130px 230px; */
+  /* padding: 0 auto; */
+  justify-content: center;
+  background-color: antiquewhite;
+  /* background: 1140px;  */
+  margin-left: 230px;
+  margin-right: 230px; 
+  margin-top: 170px;
 
+}
+.information{
+  text-align: center;
+  font-size: 35px;
+  font-weight:bold;
+}
+.para{
+  text-align: center;
+  font-size: 18px;
+  
+}
+.about-info{
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+.kochu{
+  padding: 130px 156px;
+}
+.info-card{
+  padding: 0px;
+}
+.info-card h4 {
+  font-size: 20px;
+  font-weight: bold;
 
+}
+.info-card p {
+  font-size: 20px;
+  
+
+}
+.two{
+  text-align: center;
+  padding: 0px;
+  margin: 1px ;
+
+}
